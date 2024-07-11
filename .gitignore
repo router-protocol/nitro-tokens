@@ -1,0 +1,8 @@
+.DS_STORE
+yarn.lock
+.env
+node_modules
+secret.json
+build
+.vscode
+artifacts
