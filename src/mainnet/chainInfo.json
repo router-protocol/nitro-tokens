@@ -1,0 +1,122 @@
+[
+    {
+      "name": "arbitrum",
+      "id": "42161"
+    },
+    {
+      "name": "polygon",
+      "id": "137"
+    },
+    {
+      "name": "avalanche",
+      "id": "43114"
+    },
+    {
+      "name": "optimism",
+      "id": "10"
+    },
+    {
+      "name": "bsc",
+      "id": "56"
+    },
+    {
+      "name": "tron",
+      "id": "728126428"
+    },
+    {
+      "name": "scroll",
+      "id": "534352"
+    },
+    {
+      "name": "linea",
+      "id": "59144"
+    },
+    {
+      "name": "base",
+      "id": "8453"
+    },
+    {
+      "name": "PolygonZkEvm",
+      "id": "1101"
+    },
+    {
+      "name": "ZkSync",
+      "id": "324"
+    },
+    {
+      "name": "Ethereum",
+      "id": "1"
+    },
+    {
+      "name": "Rsk",
+      "id": "30"
+    },
+    {
+      "name": "mantle",
+      "id": "5000"
+    },
+    {
+      "name": "manta",
+      "id": "169"
+    },
+    {
+      "name": "aurora",
+      "id": "1313161554"
+    },
+    {
+      "name": "blast",
+      "id": "81457"
+    },
+    {
+      "name": "mode",
+      "id": "34443"
+    },
+    {
+      "name": "boba",
+      "id": "288"
+    },
+    {
+      "name": "metis",
+      "id": "1088"
+    },
+    {
+      "name": "taiko",
+      "id": "167000"
+    },
+    {
+      "name": "saakuru",
+      "id": "7225878"
+    },
+    {
+      "name": "kyoto",
+      "id": "1997"
+    },
+    {
+      "name": "xLayer",
+      "id": "196"
+    },
+    {
+      "name": "doge chain",
+      "id": "2000"
+    },
+    {
+      "name": "Oasis Sapphire",
+      "id": "23294"
+    },
+    {
+      "name": "osmosis mainnet",
+      "id": "osmosis-1"
+    },
+    {
+      "name": "5ire",
+      "id": "995"
+    },
+    {
+      "name": "matchain",
+      "id": "698"
+    },
+    {
+      "name": "solana",
+      "id": "solana"
+    }
+  ]
