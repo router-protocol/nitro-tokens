@@ -1,0 +1,79 @@
+[
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "137",
+        "decimals": 6,
+        "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "10",
+        "decimals": 6,
+        "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "42161",
+        "decimals": 6,
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "43114",
+        "decimals": 6,
+        "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "8453",
+        "decimals": 6,
+        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "1",
+        "decimals": 6,
+        "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "usdc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "chainId": "solana",
+        "decimals": 6,
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    }
+]

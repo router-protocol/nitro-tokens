@@ -118,5 +118,25 @@
     {
       "name": "solana",
       "id": "solana"
+    },
+    {
+      "name": "vanarchain",
+      "id": "2040"
+    },
+    {
+      "name": "rollux",
+      "id": "570"
+    },
+    {
+      "name": "arthera",
+      "id": "10242"
+    },
+    {
+      "name": "router chain",
+      "id": "router_9600-1"
+    },
+    {
+      "name": "self chain",
+      "id": "self-1"
     }
   ]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": "route-v2",
+        "name": "route",
+        "symbol": "ROUTE",
+        "chainId": "router_9600-1",
+        "decimals": 18,
+        "address": "route",
+        "isNative": true,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "route-v2",
+        "name": "route",
+        "symbol": "ROUTE",
+        "chainId": "137",
+        "decimals": 18,
+        "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "route-v2",
+        "name": "route",
+        "symbol": "ROUTE",
+        "chainId": "1",
+        "decimals": 18,
+        "address": "0x60f67e1015b3f069dd4358a78c38f83fe3a667a9",
+        "isNative": false,
+        "isWNative": false,
+        "price": null
+    }
+]

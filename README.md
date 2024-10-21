@@ -1,7 +1,7 @@
 # nitro-tokens
 
+To get tokens refer to /src/{env}/tokens folder
+eg: /src/mainnet/tokens 
 
 ### Steps to add new tokens
-1. Update in /src.
-2. Run validate script.
-3. Raise PR.
+TBD

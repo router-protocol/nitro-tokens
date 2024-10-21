@@ -28,6 +28,7 @@
       } 
 }
 ```
+TODO: add isMintable/isLockable properties
 
 
 ## Logo URI structure
