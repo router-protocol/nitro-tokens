@@ -44,17 +44,6 @@
         "price": null
     },
     {
-        "id": "route",
-        "name": "ROUTE",
-        "symbol": "ROUTE",
-        "chainId": "1",
-        "decimals": 18,
-        "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
-        "isNative": false,
-        "isWNative": false,
-        "price": null
-    },
-    {
         "id": "dfyn",
         "name": "DFYN",
         "symbol": "DFYN",
@@ -611,17 +600,6 @@
         "chainId": "137",
         "decimals": 18,
         "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-        "isNative": false,
-        "isWNative": false,
-        "price": null
-    },
-    {
-        "id": "route",
-        "name": "ROUTE",
-        "symbol": "ROUTE",
-        "chainId": "137",
-        "decimals": 18,
-        "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
         "isNative": false,
         "isWNative": false,
         "price": null
