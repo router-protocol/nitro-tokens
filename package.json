@@ -1,0 +1,19 @@
+{
+  "name": "nitro-tokens",
+  "version": "1.0.0-beta-1",
+  "description": "List of bridging tokens on Nitro",
+  "main": "index.js",
+  "repository": "https://github.com/router-protocol/nitro-tokens.git",
+  "author": "kunalroute <kunal@routerprotocol.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4"
+  }
+}

@@ -1,0 +1,2810 @@
+{
+    "1": {
+      "ETH": {
+        "chainId": "1",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "1",
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "1",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "1",
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "Wrapped BTC",
+        "symbol": "BTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "UNI": {
+        "chainId": "1",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "1",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "1",
+        "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+        "name": "RouteV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "routev1",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTE": {
+        "chainId": "1",
+        "address": "0x60f67e1015b3f069dd4358a78c38f83fe3a667a9",
+        "name": "Route",
+        "symbol": "ROUTEN",
+        "decimals": 18,
+        "resourceID": "route",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "1",
+        "address": "0x9695e0114e12C0d3A3636fAb5A18e6b737529023",
+        "name": "DFYN Token",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "1",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "1",
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "1",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "1",
+        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "name": "WBNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "1",
+        "address": "0x9d36f8f62347538440a212e9162f534f797542df",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "PEPE": {
+        "chainId": "1",
+        "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BONK": {
+        "chainId": "1",
+        "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
+        "name": "BONK",
+        "symbol": "BONK",
+        "decimals": 5,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "5IRE": {
+        "chainId": "1",
+        "address": "0x3bd7d4f524d09f4e331577247a048d56e4b67a7f",
+        "name": "5IRE",
+        "symbol": "5IRE",
+        "decimals": 18,
+        "resourceID": "5ire",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "UNO": {
+        "chainId": "1",
+        "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "name": "UNORe",
+        "symbol": "UNO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "VANRY": {
+        "chainId": "1",
+        "address": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+        "name": "VANRY",
+        "symbol": "VANRY",
+        "decimals": 18,
+        "resourceID": "native-vanry",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+     "GHX": {
+        "chainId": "1",
+        "address": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
+        "name": "GamerCoin",
+        "symbol": "GHX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "AGA": {
+        "chainId": "1",
+        "address": "0x2d80f5f5328fdcb6eceb7cacf5dd8aedaec94e20",
+        "name": "AGA Token",
+        "symbol": "AGA",
+        "decimals": 4,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "AGAr": {
+        "chainId": "1",
+        "address": "0xb453f1f2ee776daf2586501361c457db70e1ca0f",
+        "name": "AGA Rewards",
+        "symbol": "AGAr",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SHIB": {
+        "chainId": "1",
+        "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "MEME": {
+        "chainId": "1",
+        "address": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
+        "name": "Memecoin",
+        "symbol": "MEME",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "FOUR": {
+        "chainId": "1",
+        "address": "0x4730fb1463a6f1f44aeb45f6c5c422427f37f4d0",
+        "name": "The 4th Pillar Token",
+        "symbol": "FOUR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "AVAIL": {
+        "chainId": "1",
+        "address": "0xeeb4d8400aeefafc1b2953e0094134a887c76bd8",
+        "name": "AVAIL",
+        "symbol": "AVAIL",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SLF": {
+        "chainId": "1",
+        "address": "0x196c25deaa044904764a8fee784a50b8aa194058",
+        "name": "SLF",
+        "symbol": "SLF",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "10": {
+      "ETH": {
+        "chainId": "10",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "10",
+        "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "10",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "10",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "10",
+        "address": "0x8413041a7702603d9d991F2C4ADd29e4e8A241F8",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "10",
+        "address": "0xf44Ff799eA2bBFeC96f9A50498209AAc3C2b3b8b",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "10",
+        "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "10",
+        "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "10",
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "10",
+        "address": "0x05bd0695aF629185fd2DCb13a99A3f0E7eF73943",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "10",
+        "address": "0x76870375C2c4b1965595551fC33e1e3ef0D87701",
+        "name": "WBNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WAVAX": {
+        "chainId": "10",
+        "address": "0x5cAB1b7dDBA3a59D307e6f4b55b7329e5ABFB549",
+        "name": "WAVAX",
+        "symbol": "WAVAX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WFTM": {
+        "chainId": "10",
+        "address": "0x0C31c3649BbdB866809a28F6f4146a0c4c043FE9",
+        "name": "WFTM",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "10",
+        "address": "0x8f69ee043d52161fd29137aedf63f5e70cd504d5",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "10",
+        "address": "0x9d36f8f62347538440a212e9162f534f797542df",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "56": {
+      "BNB": {
+        "chainId": "56",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "resourceID": "native-bnb",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "CAKE": {
+        "chainId": "56",
+        "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+        "name": "PancakeSwap Token",
+        "symbol": "CAKE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "56",
+        "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "resourceID": "native-bnb",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "56",
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BUSD": {
+        "chainId": "56",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "name": "Binance USD",
+        "symbol": "BUSD",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BTCB": {
+        "chainId": "56",
+        "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "56",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 18,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "56",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 18,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ETH": {
+        "chainId": "56",
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "name": "Binance-Peg Ethereum Token",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "56",
+        "address": "0xfD2700c51812753215754De9EC51Cdd42Bf725B9",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "56",
+        "address": "0x9c08941465EB16982Fa8385A7BbD74F7972C5a27",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "NSDX": {
+        "chainId": "56",
+        "address": "0x24Fc769b9107980b2b9c0E1d9E80dc565B0F6f13",
+        "name": "NSDX",
+        "symbol": "NSDX",
+        "decimals": 18,
+        "resourceID": "nsdx",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "56",
+        "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "56",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "skr",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "56",
+        "address": "0xaa88c603d142c371ea0eac8756123c5805edee03",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DOGE": {
+        "chainId": "56",
+        "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "name": "DOGE",
+        "symbol": "DOGE",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "PEPE": {
+        "chainId": "56",
+        "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "name": "PEPE",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "56",
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "UNO": {
+        "chainId": "56",
+        "address": "0x474021845c4643113458ea4414bdb7fb74a01a77",
+        "name": "UNORe",
+        "symbol": "UNO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "TOX": {
+        "chainId": "56",
+        "address": "0x837656c3f5858692ccdce13ba66e09d2685073df",
+        "name": "INTOVERSE TOKEN",
+        "symbol": "TOX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "FLOKI": {
+        "chainId": "56",
+        "address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "137": {
+      "DAI": {
+        "chainId": "137",
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "137",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "QUICK": {
+        "chainId": "137",
+        "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+        "name": "Quick",
+        "symbol": "QUICK",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "137",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "137",
+        "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "137",
+        "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "137",
+        "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ETH": {
+        "chainId": "137",
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "137",
+        "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "routev1",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTE": {
+        "chainId": "137",
+        "address": "0x93890f346C5D02C3863a06657bc72555dC72c527",
+        "name": "Route",
+        "symbol": "ROUTEN",
+        "decimals": 18,
+        "resourceID": "route",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "137",
+        "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+        "name": "DFYN Token",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "NSDX": {
+        "chainId": "137",
+        "address": "0xe8d17b127ba8b9899a160d9a07b69bca8e08bfc6",
+        "name": "NSDX",
+        "symbol": "NSDX",
+        "decimals": 18,
+        "resourceID": "nsdx",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "MATIC": {
+        "chainId": "137",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "137",
+        "address": "0x5c4b7CCBF908E64F32e12c6650ec0C96d717f03F",
+        "name": "WBNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "137",
+        "address": "0xeee3371b89fc43ea970e908536fcddd975135d8a",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "137",
+        "address": "0x9d36f8f62347538440a212e9162f534f797542df",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BONK": {
+        "chainId": "137",
+        "address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048",
+        "name": "BONK",
+        "symbol": "BONK",
+        "decimals": 5,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "250": {
+      "FTM": {
+        "chainId": "250",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "FTM",
+        "symbol": "FTM",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "250",
+        "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "250",
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "250",
+        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "250",
+        "address": "0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "250",
+        "address": "0x11BbF12363dC8375b78D2719395d505f52a02F68",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WFTM": {
+        "chainId": "250",
+        "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "name": "WFTM",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "resourceID": "0x000000000000000000000021be370d5312f44cb42ce377bc9b8a0cef1a4c8300",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ETH": {
+        "chainId": "250",
+        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "250",
+        "address": "0x40DF1Ae6074C35047BFF66675488Aa2f9f6384F3",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "42161": {
+      "ETH": {
+        "chainId": "42161",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "42161",
+        "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "name": "DAI",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "dai",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "42161",
+        "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "42161",
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SUSHI": {
+        "chainId": "42161",
+        "address": "0xd4d42F0b6DEF4CE0383636770eF773390d85c61A",
+        "name": "SUSHI",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "42161",
+        "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "42161",
+        "address": "0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "42161",
+        "address": "0x11BbF12363dC8375b78D2719395d505f52a02F68",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "SWEEP": {
+        "chainId": "42161",
+        "address": "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574",
+        "name": "SWEEP",
+        "symbol": "SWEEP",
+        "decimals": 18,
+        "resourceID": "sweep",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "42161",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "42161",
+        "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "42161",
+        "address": "0x4425742f1ec8d98779690b5a3a6276db85ddc01a",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "42161",
+        "address": "0x9d36f8f62347538440a212e9162f534f797542df",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BONK": {
+        "chainId": "42161",
+        "address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74",
+        "name": "BONK",
+        "symbol": "BONK",
+        "decimals": 5,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "PEPE": {
+        "chainId": "42161",
+        "address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "name": "PEPE",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "43114": {
+      "AVAX": {
+        "chainId": "43114",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "AVAX",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WAVAX": {
+        "chainId": "43114",
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "name": "WAVAX",
+        "symbol": "WAVAX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "43114",
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "43114",
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "43114",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WMATIC": {
+        "chainId": "43114",
+        "address": "0xF23f98fFfa44905991ea74454B1CA8251f6721A0",
+        "name": "WMATIC",
+        "symbol": "WMATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "43114",
+        "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+        "name": "WBNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "43114",
+        "address": "0xf44Ff799eA2bBFeC96f9A50498209AAc3C2b3b8b",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "43114",
+        "address": "0x2b6b20ceaC439042edC6eFD3d41b11af66013e58",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "dfyn",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "43114",
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "43114",
+        "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "1313161554": {
+      "ETH": {
+        "chainId": "1313161554",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "1313161554",
+        "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB",
+        "name": "Ethereum",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "1313161554",
+        "address": "0xe3520349F477A5F6EB06107066048508498A291b",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "1313161554",
+        "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "1313161554",
+        "address": "0xB12BFcA5A55806AaF64E99521918A4bf0fC40802",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "1313161554",
+        "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WAURORA": {
+        "chainId": "1313161554",
+        "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+        "name": "WAurora",
+        "symbol": "WAURORA",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "MATIC": {
+        "chainId": "1313161554",
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BNB": {
+        "chainId": "1313161554",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "name": "Binance Coin",
+        "symbol": "BNB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ROUTEV1": {
+        "chainId": "1313161554",
+        "address": "0xA1fC14bC890a98142443B7ABc0Eeccae6186cd9a",
+        "name": "ROUTEV1",
+        "symbol": "ROUTEV1",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "DFYN": {
+        "chainId": "1313161554",
+        "address": "0x540844EaDf2D3B02cc3D0FC8803bFea5B7176C49",
+        "name": "DFYN",
+        "symbol": "DFYN",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "30": {
+      "RBTC": {
+        "chainId": 30,
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "RBTC",
+        "symbol": "RBTC",
+        "decimals": 18,
+        "resourceID": "native-rbtc",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "RUSDT": {
+        "chainId": 30,
+        "address": "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
+        "name": "RUSDT",
+        "symbol": "RUSDT",
+        "decimals": 18,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WRBTC": {
+        "chainId": 30,
+        "address": "0x542fda317318ebf1d3deaf76e0b632741a7e677d",
+        "name": "WRBTC",
+        "symbol": "WRBTC",
+        "decimals": 18,
+        "resourceID": "native-rbtc",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "728126428": {
+      "TRX": {
+        "chainId": "728126428",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "TRX",
+        "symbol": "TRX",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WTRX": {
+        "chainId": "728126428",
+        "address": "0x891CDB91D149F23B1A45D9C5CA78A88D0CB44C18",
+        "name": "WTRX",
+        "symbol": "TRX",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "728126428",
+        "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BTT": {
+        "chainId": "728126428",
+        "address": "0x032017411f4663b317fe77c257d28d5cd1b26e3d",
+        "name": "BTT",
+        "symbol": "BTT",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SWEEP": {
+        "chainId": "728126428",
+        "address": "0xCBF0A663E5D7657792A7094FA5FB6D07D3704A10",
+        "name": "SWEEP",
+        "symbol": "SWEEP",
+        "decimals": 18,
+        "resourceID": "sweep",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "solana": {
+      "SOL": {
+        "chainId": "solana",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "SOL",
+        "symbol": "SOL",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WSOL": {
+        "chainId": "solana",
+        "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+        "name": "WSOL",
+        "symbol": "WSOL",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "solana",
+        "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "solana",
+        "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "59144": {
+      "ETH": {
+        "chainId": "59144",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "59144",
+        "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "59144",
+        "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "59144",
+        "address": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "534352": {
+      "ETH": {
+        "chainId": "534352",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "534352",
+        "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "534352",
+        "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "534352",
+        "address": "0x5300000000000000000000000000000000000004",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "8453": {
+      "ETH": {
+        "chainId": "8453",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "8453",
+        "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "8453",
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "8453",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "8453",
+        "address": "0xafb89a09d82fbde58f18ac6437b3fc81724e4df6",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "8453",
+        "address": "0x9d36f8f62347538440a212e9162f534f797542df",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "BRETT": {
+        "chainId": "8453",
+        "address": "0x532f27101965dd16442e59d40670faf5ebb142e4",
+        "name": "Brett",
+        "symbol": "BRETT",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "1101": {
+      "ETH": {
+        "chainId": "1101",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "1101",
+        "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "1101",
+        "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "1101",
+        "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "1101",
+        "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "324": {
+      "ETH": {
+        "chainId": "324",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "324",
+        "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "324",
+        "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "324",
+        "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "324",
+        "address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",
+        "name": "Wrapped BTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "5000": {
+      "MANTLE": {
+        "chainId": "5000",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "MANTLE",
+        "symbol": "MANTLE",
+        "decimals": 18,
+        "resourceID": "native-mantle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "5000",
+        "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "5000",
+        "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "5000",
+        "address": "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WMANTLE": {
+        "chainId": "5000",
+        "address": "0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8",
+        "name": "WMANTLE",
+        "symbol": "WMANTLE",
+        "decimals": 18,
+        "resourceID": "native-mantle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "169": {
+      "ETH": {
+        "chainId": "169",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "169",
+        "address": "0xf417F5A458eC102B90352F697D6e2Ac3A3d2851f",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "169",
+        "address": "0xb73603C5d87fA094B7314C74ACE2e64D165016fb",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "169",
+        "address": "0x0Dc808adcE2099A9F62AA87D9670745AbA741746",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "81457": {
+      "ETH": {
+        "chainId": "81457",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "81457",
+        "address": "0x4300000000000000000000000000000000000004",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "34443": {
+      "ETH": {
+        "chainId": "34443",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "34443",
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "34443",
+        "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "34443",
+        "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "288": {
+      "ETH": {
+        "chainId": "288",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "288",
+        "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "288",
+        "address": "0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "288",
+        "address": "0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "1088": {
+      "METIS": {
+        "chainId": "1088",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "METIS",
+        "symbol": "METIS",
+        "decimals": 18,
+        "resourceID": "native-metis",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WMETIS": {
+        "chainId": "1088",
+        "address": "0x71802e8F394BB9d05a1b8E9d0562917609FD7325",
+        "name": "WMETIS",
+        "symbol": "WMETIS",
+        "decimals": 18,
+        "resourceID": "native-metis",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "1088",
+        "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "1088",
+        "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "near": {
+      "ETH": {
+        "chainId": "near",
+        "address": "near",
+        "name": "NEAR",
+        "symbol": "NEAR",
+        "decimals": 24,
+        "resourceID": "native-near",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "near",
+        "address": "wrap",
+        "name": "WNEAR",
+        "symbol": "WNEAR",
+        "decimals": 24,
+        "resourceID": "native-near",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "near",
+        "address": "usdt.tether-token.near",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "near",
+        "address": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "10242": {
+      "AA": {
+        "chainId": "10242",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "AA",
+        "symbol": "AA",
+        "decimals": 18,
+        "resourceID": "native-aa",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WAA": {
+        "chainId": "10242",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WAA",
+        "symbol": "WAA",
+        "decimals": 18,
+        "resourceID": "native-aa",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "10242",
+        "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "10242",
+        "address": "0x6C45E28A76977a96e263f84F95912B47F927B687",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "ETH": {
+        "chainId": "10242",
+        "address": "0x29AE05C93549bb93827cd651C6ee1c25960dB847",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "7225878": {
+      "OAS": {
+        "chainId": "7225878",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18,
+        "resourceID": "native-oas",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "7225878",
+        "address": "0x3111472f0Be6fA50E157c88F3942262Ee8eBf281",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WOAS": {
+        "chainId": "7225878",
+        "address": "0x557a526472372f1F222EcC6af8818C1e6e78A85f",
+        "name": "WOAS",
+        "symbol": "WOAS",
+        "decimals": 18,
+        "resourceID": "native-oas",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "SKR": {
+        "chainId": "7225878",
+        "address": "0xe2dCA969624795985F2f083BcD0b674337ba130a",
+        "name": "SKR",
+        "symbol": "SKR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "7225878",
+        "address": "0x739222d8a9179fe05129c77a8fa354049c088caa",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "7225878",
+        "address": "0xD457DE2ebCE0D70F571718Ad66A28273b5956105",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DOG": {
+        "chainId": "7225878",
+        "address": "0x02d728b9c1513478a6b6de77a92648e1d8f801e7",
+        "name": "The Doge NFT (DOG)",
+        "symbol": "DOG",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "SATS": {
+        "chainId": "7225878",
+        "address": "0xf3ad01cf8e4d3ef95f5d480ec534dd98caa0555f",
+        "name": "Satoshi (SATS)",
+        "symbol": "SATS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "BONK": {
+        "chainId": "7225878",
+        "address": "0x44D4691Bb6fe61491E4E00BAb78C56A545820097",
+        "name": "BONK",
+        "symbol": "BONK",
+        "decimals": 5,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "PEPE": {
+        "chainId": "7225878",
+        "address": "0x9a77FbC3b3CE45F43275677053E5D60272d326f3",
+        "name": "PEPE",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DOGE": {
+        "chainId": "7225878",
+        "address": "0x6446C9f678764c8b69A75AEdd5b505E239dffB63",
+        "name": "DOGE",
+        "symbol": "DOGE",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "167000": {
+      "ETH": {
+        "chainId": "167000",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ETH",
+        "symbol": "ETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "167000",
+        "address": "0xA51894664A773981C6C112C43ce576f315d5b1B6",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "1997": {
+      "KYOTO": {
+        "chainId": "1997",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "KYOTO",
+        "symbol": "KYOTO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WKYOTO": {
+        "chainId": "1997",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WKYOTO",
+        "symbol": "WKYOTO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "1997",
+        "address": "0x97eec1c29f745dC7c267F90292AA663d997a601D",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "1997",
+        "address": "0xb6dc6c8b71e88642cead3be1025565a9ee74d1c6",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "1997",
+        "address": "0xff13a7a12fd485bc9687ff88d8ae1a6b655ab469",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "2000": {
+      "DOGE": {
+        "chainId": "2000",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "DOGE",
+        "symbol": "DOGE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WDOGE": {
+        "chainId": "2000",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WDOGE",
+        "symbol": "WDOGE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "2000",
+        "address": "0xb6dc6c8b71e88642cead3be1025565a9ee74d1c6",
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "2000",
+        "address": "0x97eec1c29f745dC7c267F90292AA663d997a601D",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "2000",
+        "address": "0xff13a7a12fd485bc9687ff88d8ae1a6b655ab469",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "196": {
+      "OKB": {
+        "chainId": "196",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "OKB",
+        "symbol": "OKB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WOKB": {
+        "chainId": "196",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WOKB",
+        "symbol": "WOKB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "196",
+        "address": "0x74b7f16337b8972027f6196a17a631ac6de26d22",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "196",
+        "address": "0x5a77f1443d16ee5761d310e38b62f77f726bc71c",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "23294": {
+      "ROSE": {
+        "chainId": "23294",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ROSE",
+        "symbol": "ROSE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WROSE": {
+        "chainId": "23294",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "ROSE",
+        "symbol": "ROSE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "23294",
+        "address": "0x97eec1c29f745dC7c267F90292AA663d997a601D",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "23294",
+        "address": "0x8C4aCd74Ff4385f3B7911432FA6787Aa14406f8B",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "23294",
+        "address": "0xB6dc6C8b71e88642cEAD3be1025565A9eE74d1C6",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "FOUR": {
+        "chainId": "23294",
+        "address": "0x9c1da2b647d25b9e71d8abb83e4dde236dcb672b",
+        "name": "The 4th Pillar Token",
+        "symbol": "FOUR",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "router_9600-1": {
+      "ROUTE": {
+        "chainId": "router_9600-1",
+        "address": "route",
+        "name": "route",
+        "symbol": "ROUTEN",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      } ,
+      "WROUTE": {
+        "chainId": "router_9600-1",
+        "address": "route",
+        "name": "WROUTE",
+        "symbol": "ROUTEN",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }  
+    },
+    "995": {
+      "5IRE": {
+        "chainId": "995",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "5IRE",
+        "symbol": "5IRE",
+        "decimals": 18,
+        "resourceID": "5ire",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "W5IRE": {
+        "chainId": "995",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "5IRE",
+        "symbol": "5IRE",
+        "decimals": 18,
+        "resourceID": "5ire",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "995",
+        "address": "0x958cae900315e85f6d00228c48e237822f9c22f8",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "osmosis-1": {
+      "OSMO": {
+        "chainId": "osmosis-1",
+        "address": "uosmo",
+        "name": "OSMO",
+        "symbol": "OSMO",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WOSMO": {
+        "chainId": "osmosis-1",
+        "address": "uosmo",
+        "name": "OSMO",
+        "symbol": "OSMO",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "osmosis-1",
+        "address": "ibc/498A0751C798A0D9A389AA3691123DADA57DAA4FE165D5C75894505B876BA6E4",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "TRX": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/TRX.rt",
+        "name": "TRX",
+        "symbol": "TRX",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/USDT.rt",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC",
+        "name": "WBTC",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "RBTC": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/BTC.rt",
+        "name": "WRBTC",
+        "symbol": "WRBTC",
+        "decimals": 18,
+        "resourceID": "native-rbtc",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1k6c8jln7ejuqwtqmay3yvzrg3kueaczl96pk067ldg8u835w0yhsw27twm/alloyed/allETH",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "ATOM": {
+        "chainId": "osmosis-1",
+        "address": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2",
+        "name": "ATOM",
+        "symbol": "ATOM",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "INJ": {
+        "chainId": "osmosis-1",
+        "address": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273",
+        "name": "INJECTIVE",
+        "symbol": "INJ",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "TIA": {
+        "chainId": "osmosis-1",
+        "address": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877",
+        "name": "CELESTIA",
+        "symbol": "TIA",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "AVAIL": {
+        "chainId": "osmosis-1",
+        "address": "factory/osmo1myv2g72h8dan7n4hx7stt3mmust6ws03zh6gxc7vz4hpmgp5z3lq9aunm9/AVAIL.rt",
+        "name": "AVAIL",
+        "symbol": "AVAIL",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "570": {
+      "SYS": {
+        "chainId": "570",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "SYS",
+        "symbol": "SYS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WSYS": {
+        "chainId": "570",
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "WSYS",
+        "symbol": "WSYS",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "UNO": {
+        "chainId": "570",
+        "address": "0x570baa32db74279a50491e88d712c957f4c9e409",
+        "name": "UNORe",
+        "symbol": "UNO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "2040": {
+      "VANRY": {
+        "chainId": "2040",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "VANRY",
+        "symbol": "VANRY",
+        "decimals": 18,
+        "resourceID": "native-vanry",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WVANRY": {
+        "chainId": "2040",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WVANRY",
+        "symbol": "VANRY",
+        "decimals": 18,
+        "resourceID": "native-vanry",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "698": {
+      "BNB": {
+        "chainId": "698",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "BNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "resourceID": "native-bnb",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBNB": {
+        "chainId": "698",
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "WBNB",
+        "symbol": "BNB",
+        "decimals": 18,
+        "resourceID": "native-bnb",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WETH": {
+        "chainId": "698",
+        "address": "0xff13a7a12fd485bc9687ff88d8ae1a6b655ab469",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "resourceID": "native-eth",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDC": {
+        "chainId": "698",
+        "address": "0x97eec1c29f745dc7c267f90292aa663d997a601d",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "resourceID": "usdc-circle",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "698",
+        "address": "0xb6dc6c8b71e88642cead3be1025565a9ee74d1c6",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "BTCB": {
+        "chainId": "698",
+        "address": "0x5501a36b1313ac5d27e85418acd2aa4564f50b44",
+        "name": "BTCB Token",
+        "symbol": "BTCB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "GHX": {
+        "chainId": "698",
+        "address": "0x667cd56aa7eaaff40ed920c8575947d82e691c22",
+        "name": "GamerCoin",
+        "symbol": "GHX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "AGA": {
+        "chainId": "698",
+        "address": "0x2703dd6ab7102cb1af209b10e08d5838e36528b2",
+        "name": "AGA Token",
+        "symbol": "AGA",
+        "decimals": 4,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "AGAr": {
+        "chainId": "698",
+        "address": "0x2bdb88805fb23d56d85ef6374476f9eacd70f707",
+        "name": "AGA Rewards",
+        "symbol": "AGAr",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "DAI": {
+        "chainId": "698",
+        "address": "0xd1c64c08d3423787f9608675571e7b8f75440b57",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "TOX": {
+        "chainId": "698",
+        "address": "0xcfbd98084899469042bd1a4fecf9ce540b4db44a",
+        "name": "INTOVERSE TOKEN",
+        "symbol": "TOX",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "FLOKI": {
+        "chainId": "698",
+        "address": "0x4406ebeb7028fc0fc06bb7706a736ac6ada8d2bf",
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "decimals": 9,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "SHIB": {
+        "chainId": "698",
+        "address": "0xd50f47d6a7d8537752faed0abb11bf51d863232b",
+        "name": "SHIBA INU",
+        "symbol": "SHIB",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "PEPE": {
+        "chainId": "698",
+        "address": "0xfb375cdfb975381731be52c05e8e695c8253c319",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "BRETT": {
+        "chainId": "698",
+        "address": "0x739222d8a9179fe05129c77a8fa354049c088caa",
+        "name": "Brett",
+        "symbol": "BRETT",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "MEME": {
+        "chainId": "698",
+        "address": "0xe5489e97612dc9d9703aafc86a3f6feb51c89718",
+        "name": "Memecoin",
+        "symbol": "MEME",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "aleph-zero": {
+      "AZERO": {
+        "chainId": "aleph-zero",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "AZERO",
+        "symbol": "AZERO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WAZERO": {
+        "chainId": "aleph-zero",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WAZERO",
+        "symbol": "WAZERO",
+        "decimals": 18,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "USDT": {
+        "chainId": "aleph-zero",
+        "address": "0x0cea0c63446ab6bceb74e646ed0da267029f18c748a7e1a8ae3539c8ae31ac35",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "resourceID": "usdt",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    },
+    "bitcoin": {
+      "BTC": {
+        "chainId": "bitcoin",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "BTC",
+        "symbol": "BTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      },
+      "WBTC": {
+        "chainId": "bitcoin",
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "name": "WBTC",
+        "symbol": "BTC",
+        "decimals": 8,
+        "resourceID": "",
+        "isMintable": false,
+        "isWrappedAsset": false
+      }
+    },
+    "self-1": {
+      "SLF": {
+        "chainId": "self-1",
+        "address": "uslf",
+        "name": "SLF",
+        "symbol": "SLF",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      },
+      "WSLF": {
+        "chainId": "self-1",
+        "address": "uslf",
+        "name": "SLF",
+        "symbol": "SLF",
+        "decimals": 6,
+        "resourceID": "",
+        "isMintable": true,
+        "isWrappedAsset": false
+      }
+    }
+  }
