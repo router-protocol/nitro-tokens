@@ -8,3 +8,5 @@ eg: /src/mainnet/tokens
 2. Add tokens in src/mainnet/tokens in specific flows.
 3. Add chain in src/mainnet/chainInfo.json if required.
 4. Raise PR.
+
+// TODO: add validation and src/mainnet/allTokens.json generation script.
