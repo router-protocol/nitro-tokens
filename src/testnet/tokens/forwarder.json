@@ -1,0 +1,24 @@
+[
+    {
+      "id": "usdt",
+      "name": "USDT",
+      "symbol": "USDT",
+      "chainId": "30732",
+      "decimals": 6,
+      "address": "0x5C2C6ab36A6e4e160fb9C529e164B7781f7d255f",
+      "isNative": false,
+      "isWNative": false,
+      "price": null
+    },
+    {
+      "id": "usdc",
+      "name": "AFTT",
+      "symbol": "AFTT",
+      "chainId": "30732",
+      "decimals": 18,
+      "address": "0x8EB6B8B335cbaf8C3d2EdBaf8F3b8444637011b7",
+      "isNative": false,
+      "isWNative": false,
+      "price": null
+    }
+]
