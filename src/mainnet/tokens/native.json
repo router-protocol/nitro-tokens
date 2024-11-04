@@ -1,0 +1,57 @@
+[
+    {
+        "id": "eth",
+        "name": "ETH",
+        "symbol": "ETH",
+        "chainId": "1",
+        "decimals": 18,
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "isNative": true,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "eth",
+        "name": "ETH",
+        "symbol": "ETH",
+        "chainId": "1",
+        "decimals": 18,
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "isNative": false,
+        "isWNative": true,
+        "price": null
+    },
+    {
+        "id": "5ire",
+        "name": "5IRE",
+        "symbol": "5IRE",
+        "chainId": "995",
+        "decimals": 18,
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "isNative": true,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "",
+        "name": "OAS",
+        "symbol": "OAS",
+        "chainId": "7225878",
+        "decimals": 18,
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "isNative": true,
+        "isWNative": false,
+        "price": null
+    },
+    {
+        "id": "",
+        "name": "Wrapped OAS",
+        "symbol": "WOAS",
+        "chainId": "7225878",
+        "decimals": 18,
+        "address": "0x557a526472372f1F222EcC6af8818C1e6e78A85f",
+        "isNative": false,
+        "isWNative": true,
+        "price": null
+    }
+]
