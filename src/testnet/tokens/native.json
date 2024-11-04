@@ -1,3 +1,13 @@
 [
-    
+    {
+        "id": "",
+        "name": "MOVE",
+        "symbol": "MOVE",
+        "chainId": "30732",
+        "decimals": 18,
+        "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "isNative": true,
+        "isWNative": false,
+        "price": null
+    }
 ]
